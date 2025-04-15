@@ -42,4 +42,4 @@ pip install -r requirements.txt
 python recommender_system.py
 ```
 
-#Thank you ❤️
+# Thank you ❤️
