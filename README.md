@@ -4,10 +4,9 @@ The robust and easy to understand implementation of a movie recommender system b
 
 ## ✈️ Implementation Screenshots
 
-![spider-man](images/superman.png)    
-
-
-![superman](images/spider-man.png)
+| ![](images/spider-man.png) | ![](images/superman.png) |
+|:--------------------:|:--------------------:|
+| Caption 1            | Caption 2            |
 
 ## 🔧 Requirements
 - python >= 3.10
